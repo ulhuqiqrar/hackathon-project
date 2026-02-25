@@ -1,0 +1,7 @@
+{
+  "name": "pathnova",
+  "description": "An intelligent career roadmap generator providing personalized, inclusive career paths and 30-60-90 day learning plans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
